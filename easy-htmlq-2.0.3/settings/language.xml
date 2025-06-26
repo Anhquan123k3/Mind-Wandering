@@ -27,7 +27,7 @@
 
         <!-- welcome screen (leave blank to skip screen) -->
         <item id="welcomeHead">Welcome!</item>
-        <item id="welcomeText">This is a demo project on iPad use in the classroom.{br}{br}{b}** Important Information **{/b}{br}For this survey you will need as much screen space as possible!{br}{br}If necessary, please {b}MAXIMIZE{/b} the size of your browser window, {b}{i}reload{/i}{/b} this web page, and click on the "Continue" button to start the survey.</item>
+        <item id="welcomeText">这是一个关于在课堂上走神的研究项目。{br}{br}{b}**重要信息**{/b}{br} 在本次调查中，您需要尽可能多地使用屏幕空间！{br}{br} 如果有必要，请将您的浏览器窗口最大化，{b}重新加载{/b}此网页，并点击“继续”按钮开始调查。</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
         <item id="loginHead">Access Code</item>
