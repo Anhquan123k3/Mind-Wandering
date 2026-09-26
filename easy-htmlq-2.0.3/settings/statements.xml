@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
    <statements version="1.0" htmlParse="false">
-     <statement id="1">教室中的座位安排会影响我集中注意力的能力。</statement>
-     <statement id="2">如果课堂管理不严格，我往往会做与学习无关的事情。</statement>
-     <statement id="3">当课程内容缺乏吸引力时，我就会分心做别的事情。</statement>
-     <statement id="4">涉及文化敏感话题的课程让我感到不适，因此我会选择回避。</statement>
-     <statement id="5">课程太难我听不懂时，我会失去继续听讲的动力。</statement>
-     <statement id="6">课程太简单时，我认为不听也能懂，因此容易分神。</statement>
-     <statement id="7">身体不适时，我很难维持课堂注意力。</statement>
-     <statement id="8">只要手机或电子设备在身边，我的注意力就容易被吸走。</statement>
-     <statement id="9">缺乏学习动机让我在课堂上难以投入。</statement>
-     <statement id="10">同学的言行时常打断我的注意力，使我分心。</statement>
-     <statement id="11">有时我看着老师好像在听，其实心早就飘走了。</statement>
-     <statement id="12">一旦开始走神，我的坐姿也会变得慵懒随意。</statement>
-     <statement id="13">上课时，我常陷入发呆状态，无法专注于课堂内容。</statement>
-     <statement id="14">有时我会用笔或小玩具在课堂上打发时间。</statement>
-     <statement id="15">我会在课堂上随手乱画，以此来打发无聊时间。</statement>
-     <statement id="16">有时候我甚至意识不到自己已经在发呆了。</statement>
-     <statement id="17">即使意识到自己在走神，我也很难重新集中注意力。</statement>
-     <statement id="18">我的注意力经常在课堂上游离，脑子里想些无关的事情。</statement>
-     <statement id="19">一旦发现自己分心，我会主动采取措施进行调整。</statement>
-     <statement id="20">有些时候我就是不想听课，只想放空自己。</statement>
-     <statement id="21">走神之后，我常常会感到懊悔和内疚。</statement>
-     <statement id="22">我认为走神是难以避免的现象，不必过度苛责自己。</statement>
-     <statement id="23">当走神影响了我的学习效果，我会感到非常困惑和懊恼。</statement>
-     <statement id="24">如果我觉得这门课对我未来没用，就容易不专心。</statement>
-     <statement id="25">有时候，我觉得自己是在逃避课堂带来的压力。</statement>
+     <statement id="1">教室中的座位安排会影响我集中注意力的能力。 (Sự sắp xếp chỗ ngồi trong lớp học ảnh hưởng đến khả năng tập trung của tôi.)</statement>
+     <statement id="2">如果课堂管理不严格，我往往会做与学习无关的事情。 (Nếu quản lý lớp học không nghiêm ngặt, tôi thường làm những việc không liên quan đến học tập.)</statement>
+     <statement id="3">当课程内容缺乏吸引力时，我就会分心做别的事情。 (Khi nội dung bài học thiếu sức hấp dẫn, tôi sẽ xao nhãng làm việc khác.)</statement>
+     <statement id="4">涉及文化敏感话题的课程让我感到不适，因此我会选择回避。 (Những bài học đề cập đến các chủ đề nhạy cảm về văn hóa khiến tôi cảm thấy khó chịu, vì vậy tôi chọn cách né tránh.)</statement>
+     <statement id="5">课程太难我听不懂时，我会失去继续听讲的动力。 (Khi bài học quá khó và không thể hiểu, tôi mất động lực tiếp tục lắng nghe.)</statement>
+     <statement id="6">课程太简单时，我认为不听也能懂，因此容易分神。 (Khi bài học quá dễ, tôi nghĩ không nghe cũng hiểu nên dễ bị phân tâm.)</statement>
+     <statement id="7">身体不适时，我很难维持课堂注意力。 (Khi cơ thể không khỏe, tôi rất khó duy trì sự chú ý trong giờ học.)</statement>
+     <statement id="8">只要手机或电子设备在身边，我的注意力就容易被吸走。 (Chỉ cần có điện thoại hoặc thiết bị điện tử bên cạnh, sự chú ý của tôi rất dễ bị cuốn đi.)</statement>
+     <statement id="9">缺乏学习动机让我在课堂上难以投入。 (Thiếu động lực học tập khiến tôi khó chú tâm vào bài giảng trên lớp.)</statement>
+     <statement id="10">同学的言行时常打断我的注意力，使我分心。 (Lời nói và hành động của bạn học thường xuyên ngắt quãng sự tập trung của tôi, làm tôi phân tâm.)</statement>
+     <statement id="11">有时我看着老师好像在听，其实心早就飘走了。 (Đôi khi tôi nhìn thầy cô có vẻ như đang nghe, nhưng thực ra tâm trí đã bay đi xa.)</statement>
+     <statement id="12">一旦开始走神，我的坐姿也会变得慵懒随意。 (Một khi bắt đầu xao nhãng, tư thế ngồi của tôi cũng trở nên uể uể, tùy tiện.)</statement>
+     <statement id="13">上课时，我常陷入发呆状态，无法专注于课堂内容。 (Trong giờ học, tôi thường rơi vào trạng thái thẫn thờ/ngơ ngác, không thể tập trung vào nội dung bài giảng.)</statement>
+     <statement id="14">有时我会用笔或小玩具在课堂上打发时间。 (Đôi khi tôi dùng bút hoặc đồ chơi nhỏ để giết thời gian trong lớp.)</statement>
+     <statement id="15">我会在课堂上随手乱画，以此来打发无聊时间。 (Tôi hay vẽ nguệch ngoạc trong giờ học để giết thời gian nhàm chán.)</statement>
+     <statement id="16">有时候我甚至意识不到自己已经在发呆了。 (Có những lúc tôi thậm chí không nhận ra bản身 mình đang thẫn thờ/phân tâm.)</statement>
+     <statement id="17">即使意识到自己在走神，我也很难重新集中注意力。 (Dù nhận ra mình đang xao nhãng, tôi cũng rất khó tập trung lại sự chú ý.)</statement>
+     <statement id="18">我的注意力经常在课堂上游离，脑子里想些无关的事情。 (Sự chú ý của tôi thường xuyên lang thang trong giờ học, đầu óc suy nghĩ về những việc không liên quan.)</statement>
+     <statement id="19">一旦发现自己分心，我会主动采取措施进行调整。 (Ngay khi phát hiện mình phân tâm, tôi sẽ chủ động thực hiện các biện pháp để điều chỉnh lại.)</statement>
+     <statement id="20">有些时候我就是不想听课，只想放空自己。 (Có những lúc tôi đơn giản là không muốn nghe giảng, chỉ muốn để tâm trí trống rỗng.)</statement>
+     <statement id="21">走神之后，我常常会感到懊悔和内疚。 (Sau khi xao nhãng, tôi thường cảm thấy hối hận và cắn rứt lương tâm.)</statement>
+     <statement id="22">我认为走神是难以避免的现象，不必过度苛责自己。 (Tôi cho rằng xao nhãng là hiện tượng khó tránh khỏi, không cần phải quá khắt khe trách phạt bản thân.)</statement>
+     <statement id="23">当走神影响了我的学习效果，我会感到非常困惑和懊恼。 (Khi việc xao nhãng ảnh hưởng đến kết quả học tập, tôi cảm thấy rất bối rối và bực bội.)</statement>
+     <statement id="24">如果我觉得这门课对我未来没用，就容易不专心。 (Nếu tôi cảm thấy môn học này không có ích cho tương lai của mình, tôi sẽ dễ mất tập trung.)</statement>
+     <statement id="25">有时候，我觉得自己是在逃避课堂带来的压力。 (Đôi khi, tôi cảm thấy mình đang trốn tránh áp lực do lớp học mang lại.)</statement>
    </statements>

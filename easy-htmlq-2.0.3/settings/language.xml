@@ -4,72 +4,71 @@
 ;
 
         <!-- misc -->
-        <item id="btnContinue">Continue...</item>
-        <item id="btnclose">Close</item>
-        <item id="btnHelp">Help me!</item>
-        <item id="btnAgreement">Agree</item>
-        <item id="btnNeutral">Neutral</item>
-        <item id="btnDisagreement">Disagree</item>
-        <item id="btnTransfer">Submit data</item>
-        <item id="btnExit">Exit</item>
-        <item id="selectItem">Please select...</item>
+        <item id="btnContinue">Tiếp tục (Continue...)</item>
+        <item id="btnclose">Đóng (Close)</item>
+        <item id="btnHelp">Trợ giúp! (Help me!)</item>
+        <item id="btnAgreement">Đồng ý (Agree)</item>
+        <item id="btnNeutral">Trung lập (Neutral)</item>
+        <item id="btnDisagreement">Không đồng ý (Disagree)</item>
+        <item id="btnTransfer">Nộp dữ liệu (Submit data)</item>
+        <item id="btnExit">Thoát (Exit)</item>
+        <item id="selectItem">Vui lòng chọn... (Please select...)</item>
         
         <!-- Warning when user is trying to leave the page (this item was added for HtmlQ) -->
-        <item id="leaveSiteWarning">Your answers will be lost.</item>
+        <item id="leaveSiteWarning">Các câu trả lời của bạn sẽ bị mất (Your answers will be lost).</item>
 
         <!-- HtmlQ only: In-App Back Button -->
-        <item id="backButton">Back</item>
-        <item id="fillInRequiredFields">Please fill in all required fields</item>
+        <item id="backButton">Quay lại (Back)</item>
+        <item id="fillInRequiredFields">Vui lòng điền đầy đủ các thông tin bắt buộc (Please fill in all required fields)</item>
 
         <!-- errors -->
-        <item id="errorHead">Error!</item>
-        <item id="errorWindowTooSmall">Please maximize your browser for using this application.</item>
+        <item id="errorHead">Lỗi! (Error!)</item>
+        <item id="errorWindowTooSmall">Vui lòng phóng to tối đa cửa sổ trình duyệt để sử dụng ứng dụng này (Please maximize your browser for using this application).</item>
 
         <!-- welcome screen (leave blank to skip screen) -->
-        <item id="welcomeHead">Welcome!</item>
-        <item id="welcomeText">这是一个关于在课堂上走神的研究项目。{br}{br}{b}**重要信息**{/b}{br} 在本次调查中，您需要尽可能多地使用屏幕空间！{br}{br} 如果有必要，请将您的浏览器窗口最大化，{b}重新加载{/b}此网页，并点击“继续”按钮开始调查。</item>
+        <item id="welcomeHead">Chào mừng! (Welcome!)</item>
+        <item id="welcomeText">Đây là dự án nghiên cứu về hiện tượng xao nhãng / mất tập trung (mind wandering) của sinh viên trong giờ học. {br}{br}{b}**Thông tin quan trọng**{/b}{br} Trong khảo sát này, bạn cần sử dụng tối đa không gian màn hình! {br}{br} Nếu cần thiết, vui lòng phóng to tối đa cửa sổ trình duyệt, {b}tải lại{/b} trang web này và nhấp vào nút "Tiếp tục" để bắt đầu khảo sát.</item>
 
         <!-- user login, only displayed if access is restricted (see config-file) -->
-        <item id="loginHead">Access Code</item>
-        <item id="loginText">Please enter the access code for this survey.</item>
-        <item id="loginFormHeader">Access Code</item>
-        <item id="loginPartIdText">Your name or survey id number</item>
-        <item id="loginNoInput">Please enter the access code.</item>
-        <item id="loginInvalidInput">Access code invalid</item>
-        <item id="loginNoConnection">Connection to server failed. Please try again.</item>
+        <item id="loginHead">Mã truy cập (Access Code)</item>
+        <item id="loginText">Vui lòng nhập mã truy cập cho khảo sát này (Please enter the access code for this survey).</item>
+        <item id="loginFormHeader">Mã truy cập (Access Code)</item>
+        <item id="loginPartIdText">Họ tên hoặc mã số khảo sát của bạn (Your name or survey id number)</item>
+        <item id="loginNoInput">Vui lòng nhập mã truy cập (Please enter the access code).</item>
+        <item id="loginInvalidInput">Mã truy cập không hợp lệ (Access code invalid)</item>
+        <item id="loginNoConnection">Kết nối tới máy chủ thất bại. Vui lòng thử lại (Connection to server failed. Please try again).</item>
 
         <!-- introduction (leave blank to skip popup) -->
-        <item id="introHead">Introduction</item>
-        <item id="introText">该研究是关于您在课堂中走神现象。
-</item>
+        <item id="introHead">Giới thiệu (Introduction)</item>
+        <item id="introText">Nghiên cứu này tìm hiểu về hiện tượng xao nhãng / mất tập trung của bạn trong giờ học.</item>
 
         <!-- step1: rough sorting into three piles (leave blank to skip popup)-->
-        <item id="step1Head">Step 1 of 5</item>
-        <item id="step1Text">请仔细阅读以下陈述，并将其分成三类：一类是您不太认同的陈述，一类是您较为赞同的陈述，还有一类是其余的陈述。{br}{br}您可以将这些卡片拖入这三类中的任意一类，或者在键盘上按 1、2、3 键。之后可以再做修改。{br}{br}如果您想再次阅读此说明，请点击左下角的帮助按钮。</item>
+        <item id="step1Head">Bước 1 / 5 (Step 1 of 5)</item>
+        <item id="step1Text">Vui lòng đọc kỹ các phát biểu sau và phân loại chúng thành ba nhóm: nhóm không đồng ý, nhóm tương đối đồng ý, và nhóm các phát biểu còn lại (trung lập).{br}{br}Bạn có thể kéo các thẻ này vào bất kỳ nhóm nào trong ba nhóm, hoặc nhấn phím 1, 2, 3 trên bàn phím. Sau đó bạn vẫn có thể chỉnh sửa lại.{br}{br}Nếu muốn đọc lại hướng dẫn này, vui lòng nhấp vào nút trợ giúp ở góc dưới bên trái.</item>
 
         <!-- step2: sorting (leave blank to skip popup) -->
-        <item id="step2Head">Step 2 of 5</item>
-        <item id="step2Text">从“同意”这一组卡片中取出卡片，并将它们排列在得分表的右侧。{br}{br}接下来，从“不同意”这一组卡片中取出卡片，并将其排列在得分表的左侧。按照此步骤对“同意”和“不同意”这两组卡片中的所有卡片进行处理。{br}{br}最后，取出“中立”卡片，并将它们放置在得分表剩余的空白格中。</item>
-        <item id="step2CondOfInstruc">Give condition of instruction here</item>
-        <item id="step2TextSizeLabel">Text</item>
+        <item id="step2Head">Bước 2 / 5 (Step 2 of 5)</item>
+        <item id="step2Text">Rút các thẻ từ nhóm "Đồng ý" và xếp chúng vào phía bên phải của bảng điểm.{br}{br}Tiếp theo, rút các thẻ từ nhóm "Không đồng ý" và xếp chúng vào phía bên trái của bảng điểm. Thực hiện theo bước này đối với tất cả các thẻ trong hai nhóm "Đồng ý" và "Không đồng ý".{br}{br}Cuối cùng, rút các thẻ "Trung lập" và đặt chúng vào các ô trống còn lại trên bảng điểm.</item>
+        <item id="step2CondOfInstruc">Đưa ra điều kiện hướng dẫn tại đây (Give condition of instruction here)</item>
+        <item id="step2TextSizeLabel">Văn bản (Text)</item>
         
 
         <!-- step3: check sorting, only displayed if showStep3== true (see config-file; leave blank to skip popup)-->
-        <item id="step3Head">Step 3 of 5</item>
-        <item id="step3Text">现在您已经将所有卡片都摆放在计分表上了。请再仔细检查一下您的分配情况，如果需要的话可以重新调整卡片的位置。</item>
-        <item id="step3CondOfInstruc">Give condition of instruction here</item>
+        <item id="step3Head">Bước 3 / 5 (Step 3 of 5)</item>
+        <item id="step3Text">Bây giờ bạn đã sắp xếp tất cả các thẻ lên bảng điểm. Vui lòng kiểm tra lại cẩn thận sự phân bố của bạn, và nếu cần thiết có thể điều chỉnh lại vị trí các thẻ.</item>
+        <item id="step3CondOfInstruc">Đưa ra điều kiện hướng dẫn tại đây (Give condition of instruction here)</item>
 
         <!-- step4: comments on best/worst rated statements, only displayed if showStep4== true (see config-file; leave blank to skip popup) -->
-        <item id="step4Head">Step 4 of 5</item>
-        <item id="step4Text">请解释一下您为何对以下陈述中的哪一条最为赞同或最为反对。请在“+4”或“-4”处标注您的意见。</item>
+        <item id="step4Head">Bước 4 / 5 (Step 4 of 5)</item>
+        <item id="step4Text">Vui lòng giải thích lý do tại sao bạn đồng ý nhất hoặc phản đối nhất đối với các phát biểu bên dưới. Vui lòng ghi lại ý kiến của bạn ở vị trí "+4" hoặc "-4".</item>
 
         <!-- step5: dditional questions, only displayed if showStep5== true (see config-file; leave blank to skip popup)-->
-        <item id="step5Head">Step 5 of 5</item>
-        <item id="step5Text">最后，请回答以下关于您个人背景的问题。</item>
+        <item id="step5Head">Bước 5 / 5 (Step 5 of 5)</item>
+        <item id="step5Text">Cuối cùng, vui lòng trả lời các câu hỏi sau về thông tin cá nhân của bạn.</item>
 
         <!-- data transfer, only displayed if submitUrl is not blank (see config-file) -->
-        <item id="transferHead">Submit Data</item>
-        <item id="transferText">您已完成调查。请现在提交您的数据。</item>
-        <item id="transferFailed">数据提交失败。请再试一次。</item>
-        <item id="transferOk">感谢您使用易 HTMLQ！{br}{br}现在您可以关闭浏览器窗口了。</item>   
+        <item id="transferHead">Nộp dữ liệu (Submit Data)</item>
+        <item id="transferText">Bạn đã hoàn thành khảo sát. Vui lòng nộp dữ liệu của bạn ngay bây giờ.</item>
+        <item id="transferFailed">Nộp dữ liệu thất bại. Vui lòng thử lại.</item>
+        <item id="transferOk">Cảm ơn bạn đã sử dụng Easy HTMLQ!{br}{br}Bây giờ bạn có thể đóng cửa sổ trình duyệt.</item>
    </language>
