@@ -3,7 +3,7 @@
    <config version="1.1.1" htmlParse="false">
 
      <!-- title of the study -->
-     <item id="studyTitle">MIND WANDERING Nghiên cứu hiện tượng xao nhãng trong giờ học của lưu học sinh (留学生课堂走神研究)</item>
+     <item id="studyTitle">MIND WANDERING 留学生课堂走神研究</item>
 
      <!-- text-align property(left|right) -->
      <item id="textAlign">left</item>
@@ -42,16 +42,16 @@
      <!-- add input-field: <input type="[text|textarea|radio|select|checkbox|rating2|rating5|rating10]">[VALUE]</input> -->
      <!-- optional attributes: bg, id, maxlength, restricted, required, scale  -->
      <item id="form">
-        <label>Tuổi / AGE (年龄)</label>
-        <note>Vui lòng nhập năm sinh của bạn / Please enter your year of birth (YYYY, ví dụ: 2003)</note>
+        <label>年龄/AGE</label>
+        <note>请输入您的年龄/Please enter your of birth (YYYY, eg. 2003)</note>
         <input type="text" required="false" maxlength="4" ></input>
 
-        <label>Thời gian học tiếng Trung / Duration of Chinese learning (中文学习时长)</label>
-        <note>Vui lòng nhập thời điểm bạn bắt đầu học tiếng Trung / Please enter the year you started learning Chinese (YYYY, ví dụ: 2020)</note>
+        <label>中文学习时长/Duration of Chinese learning</label>
+        <note>请输入您开始学中文的时间/Please enter the time when you started learning Chinese（YYYY， eg. 2020）</note>
         <input type="text" required="false" maxlength="4" ></input>
 
-        <label>Trình độ tiếng Trung của bạn / Your level of proficiency in Chinese (您的汉语水平等级)</label>
-        <note>Vui lòng nhập cấp độ HSK của bạn / Please indicate your HSK level (N, ví dụ: 6)</note>
+        <label>您的汉语水平等级/Your level of proficiency in Chinese</label>
+        <note>请输入您的HSK等级/Please indicate your HSK level（N，eg. 6）</note>
         <input type="text" required="false" maxlength="1" ></input>
 
      </item>

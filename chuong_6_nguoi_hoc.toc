@@ -1,0 +1,8 @@
+\contentsline {section}{\numberline {1}Giới Thiệu Chung}{2}{section.1}%
+\contentsline {section}{\numberline {2}Ảnh Hưởng Của Lĩnh Vực Học Thuật Đến Thiết Kế Chương Trình}{2}{section.2}%
+\contentsline {section}{\numberline {3}Sự Đa Dạng Của Người Học Trong Giáo Dục Đại Học}{2}{section.3}%
+\contentsline {section}{\numberline {4}Các Yếu Tố Người Học Tác Động Đến Kế Hoạch Đào Tạo}{3}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Động Lực Học Tập và Mục Tiêu Cá Nhân}{3}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Kiến Thức Nền Tảng và Xuất Phát Điểm}{3}{subsection.4.2}%
+\contentsline {section}{\numberline {5}Khuyến Nghị Xây Dựng Kế Hoạch Học Thuật Lấy Người Học Làm Trung Tâm}{3}{section.5}%
+\contentsline {section}{\numberline {6}Kết Luận}{3}{section.6}%

@@ -1,0 +1,9 @@
+\contentsline {section}{\numberline {1}Giới Thiệu Chung}{2}{section.1}%
+\contentsline {section}{\numberline {2}Cấu Trúc Phương Pháp Học Tập}{2}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Học Bề Mặt (Surface Approach) và Học Sâu (Deep Approach)}{2}{subsection.2.1}%
+\contentsline {section}{\numberline {3}Các Yếu Tố Ảnh Hưởng Đến Phương Pháp Học Tập}{2}{section.3}%
+\contentsline {subsection}{\numberline {3.1}Kinh Nghiệm Học Tập Có Sẵn}{2}{subsection.3.1}%
+\contentsline {subsection}{\numberline {3.2}Nhận Thức Về Môi Trường Giảng Dạy}{3}{subsection.3.2}%
+\contentsline {section}{\numberline {4}Khái Niệm Hoá Mô Hình Học Tập}{3}{section.4}%
+\contentsline {section}{\numberline {5}Khuyến Nghị Cho Thực Tiễn Giảng Dạy}{3}{section.5}%
+\contentsline {section}{\numberline {6}Kết Luận}{3}{section.6}%
